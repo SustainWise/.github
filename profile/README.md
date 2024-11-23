@@ -22,3 +22,9 @@ Money Manager
 | C128B4KY2831  | Muhammad Farras Yasyfa         | Cloud Computing       | -                                                | -                   | Active   |
 | A128B4KX2247  | Laila Syalwa Salsabila         | Mobile Development    | -                                                | -                   | Active   |
 | A128B4KY3711  | Rayhan Alfarizi                | Mobile Development    | -                                                | -                   | Active   |
+
+## Application Result
+
+## Project Architecture
+
+## Project Documentation
