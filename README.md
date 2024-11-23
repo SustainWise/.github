@@ -1,7 +1,7 @@
 # SustainWise
 Money Manager
 
-<img src="https://github.com/Farras8/SustainWise/blob/main/Logo%20SustainWise.jpg" alt="Logo" width="200">
+<img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Logo%20SustainWise.jpg" alt="Logo" width="200">
 
 ## About this project
  SustainWise: Money Manager aims to tackle these nancial chalenges by providing a
