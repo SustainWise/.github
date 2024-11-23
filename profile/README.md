@@ -28,7 +28,7 @@ Money Manager
 ## Project Architecture
 
 ## Project Documentation
-# 1. Learning Path Documentation
+1. Learning Path Documentation
 - [Machine Learning](https://github.com/SustainWise/ML.git)
 - [Cloud Computing](https://github.com/SustainWise/CC.git)
 - [Mobile Development](https://github.com/SustainWise/MD.git)
