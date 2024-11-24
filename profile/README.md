@@ -15,7 +15,7 @@ Money Manager
 
 | Bangkit ID   | Name                            | Learning Path         | LinkedIn Profile                                 | Github              | Status   |
 |--------------|-------------------------------  |-----------------------|--------------------------------------------------|---------------------|----------|
-| M128B4KX0405  | AliaChyandaPutri               | Machine Learning      | -                                                | -                   | Active   |
+| M128B4KX0405  | Alia Chyanda Putri               | Machine Learning      | -                                                | -                   | Active   |
 | M284B4KX0578  | Annisa Esadora Hartanto        | Machine Learning      | -                                                | -                   | Active   |
 | M128B4KX3523  | Putri Rifdah Nabila            | Machine Learning      | -                                                | -                   | Active   |
 | C128B4KY2803  | Muhammad Fadhl IvanderVirajati | Cloud Computing       | -                                                | -                   | Active   |
