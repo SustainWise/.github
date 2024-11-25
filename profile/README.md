@@ -16,7 +16,7 @@ Money Manager
 | Bangkit ID   | Name                            | Learning Path         | LinkedIn Profile                                 | Github              | Status   |
 |--------------|-------------------------------  |-----------------------|--------------------------------------------------|---------------------|----------|
 | M128B4KX0405  | Alia Chyanda Putri               | Machine Learning      | -                                                | -                   | Active   |
-| M284B4KX0578  | Annisa Esadora Hartanto        | Machine Learning      | -                                                | -                   | Active   |
+| M284B4KX0578  | Annisa Esadora Hartanto        | Machine Learning      | https://www.linkedin.com/in/esadorahartanto/                                                | https://github.com/shiningcloud99                   | Active   |
 | M128B4KX3523  | Putri Rifdah Nabila            | Machine Learning      | -                                                | -                   | Active   |
 | C128B4KY2803  | Muhammad Fadhl IvanderVirajati | Cloud Computing       | https://www.linkedin.com/in/fadel-ivander-860a5224b/                                                | https://github.com/padelel                   | Active   |
 | C128B4KY2831  | Muhammad Farras Yasyfa         | Cloud Computing       | https://www.linkedin.com/in/muhammad-farras-yasyfa-89a0b12a6/ | https://github.com/Farras8  | Active   |
