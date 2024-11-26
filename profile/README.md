@@ -21,7 +21,7 @@ Money Manager
 | C128B4KY2803  | Muhammad Fadhl IvanderVirajati | Cloud Computing       | https://www.linkedin.com/in/fadel-ivander-860a5224b/                                                | https://github.com/padelel                   | Active   |
 | C128B4KY2831  | Muhammad Farras Yasyfa         | Cloud Computing       | https://www.linkedin.com/in/muhammad-farras-yasyfa-89a0b12a6/ | https://github.com/Farras8  | Active   |
 | A128B4KX2247  | Laila Syalwa Salsabila         | Mobile Development    | https://www.linkedin.com/in/laila-syalwa-salsabila-841303208/ | https://github.com/laiibill | Active   |
-| A128B4KY3711  | Rayhan Alfarizi                | Mobile Development    | -                                                | -                   | Active   |
+| A128B4KY3711  | Rayhan Alfarizi                | Mobile Development    | http://www.linkedin.com/in/rayhan-alfarizi-3a4901247                  | https://github.com/rayrockers2309   | Active   |
 
 ## Application Result
 
