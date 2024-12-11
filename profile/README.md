@@ -1,7 +1,9 @@
 # SustainWise
-Money Manager : Money Manager
+Money Manager
 
 <img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Logo%20SustainWise.jpg" alt="Logo" width="200">
+
+## C242-PS337
 
 ## About this project
  SustainWise: Money Manager aims to tackle these nancial chalenges by providing a
