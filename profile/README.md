@@ -2,9 +2,6 @@
 
 <img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Logo%20SustainWise.jpg" alt="Logo" width="200">
 
-## Application Result
-<img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Github-intro.png" alt="SustainWise" width="1000">
-
 ## About this project
  SustainWise: Money Manager aims to tackle these nancial chalenges by providing a
  comprehensive, user-friendly pla orm that enables users to track income and expenses.
@@ -26,6 +23,8 @@
 | A128B4KY3711  | Rayhan Alfarizi                | Mobile Development    | http://www.linkedin.com/in/rayhan-alfarizi-3a4901247                  | https://github.com/rayrockers2309   | Active   |
 
 ## Application Result
+
+<img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Github-intro.png" alt="SustainWise" width="1000">
 
 ## Project Architecture
 
