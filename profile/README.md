@@ -6,7 +6,7 @@ Money Manager
 ## About this project
  SustainWise: Money Manager aims to tackle these nancial chalenges by providing a
  comprehensive, user-friendly pla orm that enables users to track income and expenses.
- Equipped with real-time nancial insights, personalized budgeting reminders, and detailed
+ Equipped with real-time nancial insights, personalized budgeting tips and recommendation, and detailed
  expense histories, SustainWise empowers users to make informed decisions about their
  spending and develop sustainable budgeting habits
 
