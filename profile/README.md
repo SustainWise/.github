@@ -2,8 +2,6 @@
 
 <img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Logo%20SustainWise.jpg" alt="Logo" width="200">
 
-## C242-PS337
-
 ## About this project
  SustainWise: Money Manager aims to tackle these nancial chalenges by providing a
  comprehensive, user-friendly pla orm that enables users to track income and expenses.
