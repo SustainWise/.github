@@ -1,5 +1,5 @@
 # SustainWise
-Money Manager
+Money Manager : Money Manager
 
 <img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Logo%20SustainWise.jpg" alt="Logo" width="200">
 
