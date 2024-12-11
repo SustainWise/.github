@@ -3,7 +3,7 @@
 <img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Logo%20SustainWise.jpg" alt="Logo" width="200">
 
 ## Application Result
-<img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Github-intro.png" alt="SustainWise" width="200">
+<img src="https://github.com/SustainWise/.github/blob/main/profile/assets/Github-intro.png" alt="SustainWise" width="1000">
 
 ## About this project
  SustainWise: Money Manager aims to tackle these nancial chalenges by providing a
