@@ -26,6 +26,8 @@
 
 ## Project Architecture
 
+<img src="https://github.com/SustainWise/.github/blob/main/profile/assets/sustainwise-cloud-architecture.jpg" alt="Cloud Architecture" width="200">
+
 ## Project Documentation
 1. Learning Path Documentation
    - [Machine Learning](https://github.com/SustainWise/ML.git)
